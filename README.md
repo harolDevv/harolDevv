@@ -6,7 +6,7 @@ My name is Harold and i'm a Full Stack Developer from Ecuador 🇪🇨  to 🌎
 
 Full Stack Developer with Front-End orientation willing to learn daily and keep improving his skills as a developer ❤️
 
-
+<h2>My projects</h2 >
 
 
 <h2>I code with</h2 >
