@@ -58,7 +58,7 @@ Full Stack Developer with Front-End orientation willing to learn daily and keep 
 <h3>Dogs App</h3>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628226/dogs2_lnrklr.png"/>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628226/dogs_yqcytd.png"/>
-<p>my individual project, this project is a single-page application developed with PERN Stack and other technologies such as: 
+<p>My individual project, this project is a single-page application developed with PERN Stack and other technologies such as: 
 Redux, CSS, Sequelize, JavaScript, GitHub, Axios.</p>
 
 <h3>Fungi page</h3>
