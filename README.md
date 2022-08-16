@@ -16,12 +16,52 @@ Full Stack Developer with Front-End orientation willing to learn daily and keep 
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png"/>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png"/>
 
+<p>Social network to interact with other people through posts, comments, reactions to posts, chats and video calls.</p>
+ <h4>Technologies used:</h4>
+ <ul>
+ <li>
+ React
+ </li>
+ <li>
+ Redux Toolkit
+ </li>
+ <li>
+ Socket.io
+ </li>
+ <li>
+ Typescript
+ </li>
+ <li>
+ MongoDB
+ </li>
+ <li>
+ Mongoose
+ </li>
+ <li>
+ Node js
+ </li>
+ <li>
+  Express
+ </li>
+ <li>
+ Tailwind CSS
+ </li>
+ <li>
+ Passport
+ </li>
+ <li>
+ Json Web Token
+ </li>
+ </ul>
+ <h4>My rol:</h4>
+ <p>My role in this project was in the front-end, creating and carrying out the necessary functionalities for each assigned component, as well as having a great impact on the design part, using css code and adding responsive to the layouts.</p>
 <h3>Dogs App</h3>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628226/dogs2_lnrklr.png"/>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628226/dogs_yqcytd.png"/>
+<p></p>
 
 <h3>Fungi page</h3>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660630443/FUNGI2_oal2fq.png"/>
 <img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660630443/FUNGI_szr66k.png"/>
-
+<p></p>
 
