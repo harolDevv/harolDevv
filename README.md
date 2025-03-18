@@ -1,6 +1,6 @@
 <h1> Hey 👋 What's up? </h1 >
 
-My name is Harold and I am a Full Stack Developer and I love Frontend development
+My name is Harold and I am a Full Stack Developer with 3 years of experience and I love Frontend development
 
 ### 👨🏻‍💻 &nbsp;About Me
 
